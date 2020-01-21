@@ -17,8 +17,8 @@ Research Experience
 ### Machine Learning Theory
 
 
-**Research Assistant** at Beijing International Center for Mathematical Research(BICMR).<br>
-Advised by [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).<br>
+**Research Assistant**(2019.02 til now) at Beijing International Center for Mathematical Research(BICMR).<br>
+*Advised by [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).*<br>
 Mainly on Adversarial Robustness, Generalization theory, and NeuralODE. Currently we are considering the influence of different randomness in training process on the model robustness. 
 
 ### Other Course Projects
