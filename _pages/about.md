@@ -12,14 +12,14 @@ I am a junior undergraduate in School of Mathematical Sciences at Peking Univers
 
 I am looking for research intern next summer.
 
-Research Experience
+Research Experiences
 ======
 ### Machine Learning Theory
 
 
-**Research Assistant**(2019.02 til now) at Beijing International Center for Mathematical Research(BICMR).<br>
+**Research Assistant**(2019.02 - Present) at Beijing International Center for Mathematical Research(BICMR).<br>
 *Advised by [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).*<br>
-Mainly on Adversarial Robustness, Generalization theory, and NeuralODE. Currently we are considering the influence of different randomness in training process on the model robustness. 
+Mainly on Adversarial Robustness, Generalization theory, and NeuralODE. Currently we are considering the influence on model robustness of injecting different randomness in model and training process. 
 
 ### Other Course Projects
 * Combining traditional energy-based methods with virtual adversarial training in semi-supervised learning.
