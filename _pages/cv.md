@@ -16,7 +16,7 @@ Education
   Major GPA: 3.72/4.0 (Around 30% students cound be higher than 3.58 according to the Dean's regulation).<br>
   Supported by Elite Undergraduate Training Program of Pure Math and Applied Math.<br>
   
-* **The High School Affiliated to Renmin University**
+* **The High School Affiliated to Renmin University of China**<br>
   2011 - 2017
 
 Work experience
