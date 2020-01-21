@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+#### Yunzhen Feng
+No. 5 Yiheyuan Road, Beijing, China.<br>
+felix.feng681@gmail.com
+
 {% include base_path %}
 
 Education
@@ -23,7 +27,7 @@ Work experience
 ======
 * **Research Assistant** 2019.02 - Present<br>
   Beijing International Center for Mathematical Research(BICMR).<br>
-  Advised by Prof. Bin Dong.<br>
+  Advised by Prof. [Bin Dong](bicmr.pku.edu.cn/~dongbin/).<br>
   Works:
   
 Skills
