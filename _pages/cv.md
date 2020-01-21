@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **School of Mathematical Sciences, Peking University**<br>
+  B.S. in Mathematics, 2017 - 2021(expected).<br>
+  Major GPA: 3.72/4.0 (Around 30% students cound be higher than 3.58 according to the Dean's regulation).<br>
+  Supported by Elite Undergraduate Training Program of Pure Math and Applied Math.<br>
+  
+* **The High School Affiliated to Renmin University**
+* 2011 - 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant** 2019.02 - Present
+  Beijing International Center for Mathematical Research(BICMR).
+  Advised by Prof. Bin Dong.
+  Works:
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing Skills: C++, Python, Matlab, LATEX.
+* Mathematical Skills: Stochastic Process, Optimal Transport, Differential Geometry.
+* Numerical Algorithms: Numerical Methods, Optimization. 
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Academic Excellence Award in 2019,
+Meritorious Award for MCM/ICM (top 9%) in 2019,
+The elite undergraduate training program of Pure Math 2018-present,
+The elite undergraduate training program of Applied Math 2019-present,
+China Mathematics Olympiad, Gold Medal, 2016,
+International Space Settlement Design Competition, Top Prize, 2016,
+NSS Space Settlement Design Contest, Top Prize for Grade 10, 2015.
