@@ -17,13 +17,13 @@ Education
   Supported by Elite Undergraduate Training Program of Pure Math and Applied Math.<br>
   
 * **The High School Affiliated to Renmin University**
-* 2011 - 2017
+  2011 - 2017
 
 Work experience
 ======
-* **Research Assistant** 2019.02 - Present
-  Beijing International Center for Mathematical Research(BICMR).
-  Advised by Prof. Bin Dong.
+* **Research Assistant** 2019.02 - Present<br>
+  Beijing International Center for Mathematical Research(BICMR).<br>
+  Advised by Prof. Bin Dong.<br>
   Works:
   
 Skills
@@ -34,10 +34,11 @@ Skills
 
 Awards
 ======
-Academic Excellence Award in 2019,
-Meritorious Award for MCM/ICM (top 9%) in 2019,
-The elite undergraduate training program of Pure Math 2018-present,
-The elite undergraduate training program of Applied Math 2019-present,
-China Mathematics Olympiad, Gold Medal, 2016,
-International Space Settlement Design Competition, Top Prize, 2016,
-NSS Space Settlement Design Contest, Top Prize for Grade 10, 2015.
+Academic Excellence Award in 2019,<br>
+Meritorious Award for MCM/ICM (top 9%) in 2019,<br>
+The elite undergraduate training program of Applied Math 2019-present,<br>
+The elite undergraduate training program of Pure Math 2018-present,<br>
+China Mathematics Olympiad, Gold Medal, 2016,<br>
+China Mathematics Competition, First Place in Beijing, 2016,<br>
+International Space Settlement Design Competition, Top Prize, 2016,<br>
+NSS Space Settlement Design Contest, Top Prize for Grade 10, 2015.<br>
