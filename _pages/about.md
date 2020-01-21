@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate in School of Mathematical Sciences at Peking University, majoring in Information and Computing Science. My advisor is [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/). My research and study are supported by the Elite Undergraduate Training Program of Pure Math and Applied Math of my school. I am interested in machine learning in general, but especially in robustness, causality and interpretability, generalization, and semi-supervised learning. I am devoted to developing more robust, interpretable methods for deep learning and I also believe my mathematical background can help to guide the design of such methods. 
+I am a junior undergraduate in School of Mathematical Sciences at Peking University(PKU), majoring in Information and Computing Science. My advisor is [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/). My research and study are supported by the Elite Undergraduate Training Program of Pure Math and Applied Math of my school. I am interested in machine learning in general, but especially in robustness, causality and interpretability, generalization, and semi-supervised learning. I am devoted to developing more robust, interpretable methods for deep learning and I also believe my mathematical background can help to guide the design of such methods. 
 
 I am looking for research intern next summer.
 
@@ -16,9 +16,9 @@ Research Experience
 ======
 **Machine Learning Theory**
 
-Research Assistant at Beijing International Center for Mathematical Research
+Research Assistant at Beijing International Center for Mathematical Research(BICMR).
 
-Advised by [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/)
+Advised by [Prof. Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).
 
 Mainly on Adversarial Robustness, Generalization theory, and NeuralODE. Currently we are considering the influence of different randomness in training process on the model robustness. 
 
