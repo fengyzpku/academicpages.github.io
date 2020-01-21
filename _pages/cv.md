@@ -27,7 +27,7 @@ Work experience
 ======
 * **Research Assistant** 2019.02 - Present<br>
   Beijing International Center for Mathematical Research(BICMR).<br>
-  Advised by Prof. [Bin Dong](bicmr.pku.edu.cn/~dongbin/).<br>
+  Advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/).<br>
   Works:
   
 Skills
