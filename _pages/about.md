@@ -53,7 +53,7 @@ Sports is an essential thing in my life, bringing me lots of happiness and passi
 * *Hiking, swimming...*
 <table>
     <tr>
-        <td ><center><img src="https://github.com/fengyzpku/fengyzpku.github.io/images/climbing.jpg" ></td>
+        <td ><center><img src="https://github.com/fengyzpku/fengyzpku.github.io/blob/master/images/climbing.jpg" ></td>
         <td ><center><img src=""  ></td>
     </tr>
 </table>
