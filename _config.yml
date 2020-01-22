@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yunzhen Feng"
-  avatar           : "1寸.jpg"
-  bio              : "Class of 2021<br>Undergraduate student in School of Mathematical Sciences at Peking University."
+  avatar           : "1_1.jpg"
+  bio              : "Class of 2021<br>Undergraduate student in School of Mathematical Sciences at Peking University.<br>felix.feng681@gmail.com"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Felix Feng"
+  facebook         : "https://www.facebook.com/profile.php?id=100010718566709"
   foursquare       :
   github           : "fengyzpku"
   google_plus      :
