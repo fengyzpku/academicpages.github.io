@@ -22,7 +22,7 @@ Research Experiences
 **Research Assistant**(2019.02 - Present)<br>
 At Beijing International Center for Mathematical Research(BICMR).<br>
 *Advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/).*<br>
-Mainly on Adversarial Robustness, Generalization theory, and NeuralODE. We have proposed a generalization error estimate from Neurla ODE perspective and have explained properties of adversarial examples via neural tangent kernel. Currently we are considering the influence on model robustness of injecting different randomness in model and training process. 
+Mainly on adversarial robustness, generalization theory, and NeuralODE. We have proposed a generalization error estimate from Neural ODE perspective and have explained properties of adversarial examples via neural tangent kernel. Currently we are considering the influence on model robustness of injecting different randomness in model and training process. 
 
 ## Other Course Projects
 * *2019*  Combining traditional energy-based methods with virtual adversarial training in semi-supervised learning:<br>
