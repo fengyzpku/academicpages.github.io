@@ -42,7 +42,7 @@ Mainly on adversarial robustness, generalization theory, and NeuralODE. We have 
   
 Skills
 ======
-* Computing Skills: C++, Python, Matlab, LATEX.
+* Computing Skills: C++, Python (PyTorch), Matlab, LATEX.
 * Mathematical Skills: Stochastic Process, Optimal Transport, Differential Geometry.
 * Numerical Algorithms: Numerical Methods, Optimization. 
 
