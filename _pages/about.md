@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate in School of Mathematical Sciences at Peking University(PKU), majoring in Information and Computing Science. My advisor is Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/). I am interested in machine learning in general, but especially in adversarial robustness, causality and interpretability, and semi-supervised learning. I am devoted to developing more robust, interpretable methods for machine learning and I also believe my mathematical background can help to guide the design of such methods. <br>
+I am a junior undergraduate in School of Mathematical Sciences at Peking University(PKU), majoring in Information and Computing Science. My advisor is Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/). I am interested in machine learning in general, but especially in adversarial robustness, causality and interpretability, and semi-supervised learning. I am devoted to developing more robust, interpretable methods for machine learning and I also believe my mathematical background can help to guide the design of such methods. Currently, I am fortunate to work with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) on theoretically understand machine learning with statistial physics and random matrix theory.<br> 
 My research and study are supported by the Elite Undergraduate Training Program of Pure Math and Applied Math of my school.
-
-I am looking for research internship this summer.
 
 Research Experiences
 ======
@@ -22,7 +20,10 @@ Research Experiences
 **Research Assistant**(2019.02 - Present)<br>
 At Beijing International Center for Mathematical Research(BICMR).<br>
 *Advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/).*<br>
-Mainly on adversarial robustness, generalization theory, and NeuralODE. We have proposed a generalization error estimate from Neural ODE perspective and have explained properties of adversarial examples via neural tangent kernel. Currently we are considering the influence on model robustness of injecting different randomness in model and training process. 
+Mainly on adversarial robustness, generalization theory, and NeuralODE. We have proposed a generalization error estimate from Neural ODE perspective and have explained properties of adversarial examples via neural tangent kernel. 
+
+**Summer Research Intern**(2020.07 - present)<br>
+*Advised by Prof. [Yue M. Lu](https://lu.seas.harvard.edu/)
 
 ## Other Course Projects
 * *2019*  Combining traditional energy-based methods with virtual adversarial training in semi-supervised learning:<br>
