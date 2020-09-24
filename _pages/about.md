@@ -39,12 +39,12 @@ Publications
 ======
 
 (Preprint) [Transferred Discrepancy: Quantifying the Difference Between Representations](https://arxiv.org/abs/2007.12446).*<br>
-**Yunzhen Feng***, Runtian Zhai*, Di He, Liwei Wang, Bin Dong<br>
-Understanding what information neural networks capture is an essential problem in deep learning, and studying whether different models capture similar features is an initial step to achieve this goal. Unlike previous works, we propose a novel metric that defines the difference between two representations based on their downstream-task performance. With this metric, experiments show that for models trained from different initializations, the learned features are not same. We also find that TD may also be used to evaluate the effectiveness of different training strategies: a training strategy that leads to more robust representation also trains models that generalize better.
+* **Yunzhen Feng***, Runtian Zhai*, Di He, Liwei Wang, Bin Dong *<br>
+We propose a novel metric that defines the difference between two representations based on their downstream-task performance. With this metric, experiments show that for models trained from different initializations, the learned features are not same. Such metric may also be used to evaluate the effectiveness of different training strategies.
 
 (Preprint) [Enhancing Certified Robustness of Smoothed Classifiers via Weighted Model Ensembling](https://arxiv.org/abs/2005.09363).*<br>
-Chizhou Liu, **Yunzhen Feng**, Ranran Wang, Bin Dong<br>
-Randomized smoothing has achieved state-of-the-art certified robustness against l2-norm adversarial attacks. However, it is not wholly resolved on how to find the optimal base classifier for randomized smoothing. In this work, we employ a Smoothed WEighted ENsembling (SWEEN) scheme to improve the performance of randomized smoothed classifiers. Theoretical results on how SWEEN can be trained to achieve near-optimal risk in the randomized smoothing regime, an adaptive prediction algorithm to reduce the prediction and certification cost are proposed. Extensive experiments illustrates the benefits of employing SWEEN.
+* Chizhou Liu, **Yunzhen Feng**, Ranran Wang, Bin Dong *<br>
+We propose a Smoothed WEighted ENsembling (SWEEN) scheme to improve the performance of randomized smoothed classifiers with theoretical results on optimization, an adaptive prediction algorithm to reduce cost, and extensive experiments illustrating the benefits.
 
 Selected Courses
 ======
