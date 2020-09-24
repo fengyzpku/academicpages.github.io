@@ -39,7 +39,7 @@ Publications
 ======
 
 (Preprint) [Transferred Discrepancy: Quantifying the Difference Between Representations](https://arxiv.org/abs/2007.12446).*<br>
-***Yunzhen Feng**<sup>*</sup>, Runtian Zhai<sup>*</sup>, Di He, Liwei Wang, Bin Dong*<br>
+***Yunzhen Feng**<sup>#</sup>, Runtian Zhai<sup>#</sup>, Di He, Liwei Wang, Bin Dong*<br>
 We propose a novel metric that defines the difference between two representations based on their downstream-task performance. With this metric, experiments show that for models trained from different initializations, the learned features are not same. Such metric may also be used to evaluate the effectiveness of different training strategies.
 
 (Preprint) [Enhancing Certified Robustness of Smoothed Classifiers via Weighted Model Ensembling](https://arxiv.org/abs/2005.09363).*<br>
