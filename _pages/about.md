@@ -16,9 +16,6 @@ I will be applying for PhD program in this year.
 Research Experiences
 ======
 
-## Machine Learning Theory
-
-
 **Research Assistant**(2019.02 - Present)<br>
 At Beijing International Center for Mathematical Research(BICMR).<br>
 *Advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/).*<br>
