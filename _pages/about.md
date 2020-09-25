@@ -31,7 +31,7 @@ Publications
 ***Yunzhen Feng**<sup>#</sup>, Runtian Zhai<sup>#</sup>, Di He, Liwei Wang, Bin Dong*<br>
 We propose a novel metric that defines the difference between two representations based on their downstream-task performance. With this metric, experiments show that for models trained from different initializations, the learned features are not same. Such metric may also be used to evaluate the effectiveness of different training strategies.
 
-(Preprint) [Enhancing Certified Robustness of Smoothed Classifiers via Weighted Mod Ensembling](https://arxiv.org/abs/2005.09363).<br>
+(Preprint) [Enhancing Certified Robustness of Smoothed Classifiers via Weighted Model Ensembling](https://arxiv.org/abs/2005.09363).<br>
 *Chizhou Liu, **Yunzhen Feng**, Ranran Wang, Bin Dong*<br>
 We propose a Smoothed WEighted ENsembling (SWEEN) scheme to improve the performance of randomized smoothed classifiers with theoretical results on optimization, an adaptive prediction algorithm to reduce cost, and extensive experiments illustrating the benefits.
 
