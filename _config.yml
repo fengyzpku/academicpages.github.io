@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Yunzhen Feng"
 title_separator          : "-"
-name                     : &name "Yunzhen Feng"
-description              : &description "personal description"
+name                     : "Yunzhen Feng" #&name 
+description              : "Yunzhen Feng's Personal Website. Undergraduate at Peking University. Machine Learning Theory." #&description 
 url                      : https://fengyzpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fengyzpku/fengyzpku.github.io" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
