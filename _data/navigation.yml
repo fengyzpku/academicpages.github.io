@@ -2,8 +2,10 @@
 main:
   #- title: "Publications"
   #  url: /publications/
+  
   - title: "Statement of Purpose"
     url: /sop/
+    
   #- title: "Talks"
   #  url: /talks/    
   
