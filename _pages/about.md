@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in School of Mathematical Sciences at Peking University(PKU), majoring in Information and Computing Science. My advisor is Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/). I am interested in machine learning in general, but especially in adversarial robustness, causality, and semi-supervised learning. I am devoted to developing more robust, interpretable methods for machine learning and I also believe my mathematical background can help to guide the design of such methods. Currently, I am fortunate to work with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) on theoretically understanding machine learning with statistial physics and random matrix theory.<br> 
-My research and study are supported by the Elite Undergraduate Training Program of Pure Math and Applied Math of my school.
+I am a senior undergraduate in School of Mathematical Sciences at Peking University (PKU), majoring in Information and Computing Science. My advisor is Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/). I am interested in machine learning theory in general, but especially in adversarial robustness, statistical learning theory, and semi-supervised learning. I aim to understand the theories behind current data-driven machine learning and, in return, use them to guide the designs of reliable models and algorithms. I enjoy working with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) at Harvard on the intersection between statistical physics and machine learning. I also work with Dr. He Di at Microsoft Research Asia and Prof. Liwei Wang (PKU).
+My research and study are supported by the Elite Undergraduate Training Program of Applied Mathematics, PKU.
 
-I will be applying for PhD programs in this year.
 
+I am now applying for PhD programs of 2021 Fall. If you’re interested, please do not hesitate to contact me!
+
+
+You can find more detailed information in my [CV](https://fengyzpku.github.io/files/resume (4).pdf)
