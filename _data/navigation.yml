@@ -3,8 +3,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
   
-  - title: "Statement of Purpose"
-    url: /sop/
+  #- title: "Statement of Purpose"
+  #  url: /sop/
     
   #- title: "Talks"
   #  url: /talks/    
@@ -18,8 +18,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
