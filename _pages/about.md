@@ -21,4 +21,4 @@ You can find more detailed information in my [CV](https://fengyzpku.github.io/fi
 &emsp;
 &emsp;
 &emsp;
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ljSTN630w9MIa0UY9dc-c-FXWX6lXBt6-DYZvAoNIPo&ct=d516d4'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=ljSTN630w9MIa0UY9dc-c-FXWX6lXBt6-DYZvAoNIPo'></script>
