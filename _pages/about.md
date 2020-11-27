@@ -15,7 +15,7 @@ My research and study are supported by the Elite Undergraduate Training Program 
 I am now applying for PhD programs of 2021 Fall. If you’re interested, please do not hesitate to contact me!
 
 
-You can find more detailed information in my [CV](https://fengyzpku.github.io/files/resume (4).pdf) and my [Statement of Purpose](https://fengyzpku.github.io/files/SOP_yunzhen.pdf)
+You can find more detailed information in my [CV](https://fengyzpku.github.io/files/CV_YunzhenFeng.pdf) and my [Statement of Purpose](https://fengyzpku.github.io/files/SOP_YunzhenFeng.pdf)
 
 
 &emsp;
