@@ -15,4 +15,4 @@ Before joining NYU, I did my undergraduate in Applied Mathematics (Honor Track) 
 
 Check out more information from my [CV](https://fengyzpku.github.io/files/CV_YunzhenFeng.pdf).
 
-More about myself: I am an outdoor lover. I climbed the Luodui Mount (6010m Snowberg) at Tibet, China in August, 2021. I have also served as the teaching assistant of *Outdoor Exploration* at Peking University. I also enjoy tennis, bouldering, and snowboarding. I plan to learn scuba diving next year!
+More about myself: I am an outdoor lover. I climbed the Luodui Mount (6010m Snowberg) at Tibet, China in August, 2021. I have also served as the teaching assistant of *Outdoor Exploration* at Peking University. Outdoor experiences really help shape my personality and life methodology.
