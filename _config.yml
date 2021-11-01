@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunzhen Feng"
 title_separator          : "-"
 name                     : "Yunzhen Feng" #&name 
-description              : "Yunzhen Feng's Personal Website. Undergraduate at Peking University. Machine Learning Theory." #&description 
+description              : "Yunzhen Feng's Personal Website. PhD student at NYU." #&description 
 url                      : https://fengyzpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengyzpku/fengyzpku.github.io" #"academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunzhen Feng"
   avatar           : "1_1.JPG"
-  bio              : "Class of 2021<br>Undergraduate student of School of Mathematical Sciences at Peking University.<br>felix.feng681@gmail.com"
-  location         : "Beijing, China"
+  bio              : "PhD student at the Center for Data Science, NYU.<br>yf2231@nyu.edu"
+  location         : "New York, United State."
   employer         :
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=QebzOsIAAAAJ&hl=zh-CN"
-  email            :  "felix.feng681@gmail.com"
+  email            :  "yf2231@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
