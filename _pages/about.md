@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at the Center for Data Science, New York University, where I am in the Math and Data group and work with Prof. [Julia Kempe](https://cims.nyu.edu/~kempe/). 
-
+I am a PhD Student at the Center for Data Science, New York University, where I am in the Math and Data group and work with Prof. [Julia Kempe](https://cims.nyu.edu/~kempe/). I am generally interested in improving machine learning beyond CIFAR10. I hope to provide efficient methods and methodology guidances for the practice side by leveraging my backgound in applied math, statistics, and computer science. 
 
 Before joining NYU, I did my undergraduate in Applied Mathematics (Honor Track) at the School of Mathematical Sciences, Peking University. I really enjoyed working with Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/) on the theory behind adversarial robustness. I spent a great summer working virtually with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) at SEAS, Harvard University on statistical physics and machine learning. I also worked closely with Dr. [Di He](https://www.microsoft.com/en-us/research/people/dihe/) from Microsoft Research Asia on representation.
 
