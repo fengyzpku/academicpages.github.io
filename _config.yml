@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100010718566709"
+  facebook         : #"https://www.facebook.com/profile.php?id=100010718566709"
   foursquare       :
   github           : "fengyzpku"
   google_plus      :
@@ -112,7 +112,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  Wechat           :  "15010826920"
+  Wechat           :  #"15010826920"
   youtube          :
   wikipedia        :
 
