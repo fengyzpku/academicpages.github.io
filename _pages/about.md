@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Student at the Center for Data Science, New York University, where I am in the Math and Data group and work with Prof. [Julia Kempe](https://cims.nyu.edu/~kempe/). I am generally interested in improving inference beyond standard IID settings, including complex data with inner structures, distributional shift, and endogeneity. I hope to provide efficient methods and methodology guidance by leveraging my background in applied math, statistics, and computer science. 
 
-I did my undergraduate in Applied Mathematics (Honor Track) at the School of Mathematical Sciences, Peking University. I was advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/) at PKU. In Summer 2020, I worked virtually with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) at Harvard on high dimensional statistics and machine learning. I also worked closely with Dr. [Di He](https://www.microsoft.com/en-us/research/people/dihe/) from Microsoft Research Asia on representation. In 2022 Summer, I interned at Uber as an Applied Scientist Intern on causal machine learning.
+I did my undergraduate in Applied Mathematics (Honor Track) at the School of Mathematical Sciences, Peking University. Back then, I was advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/) on adversarial robustness. In Summer 2020, I worked virtually with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) at Harvard on high dimensional statistics and machine learning. I also worked closely with Dr. [Di He](https://www.microsoft.com/en-us/research/people/dihe/) from Microsoft Research Asia on representation. In 2022 Summer, I interned at Uber as an Applied Scientist Intern on causal machine learning.
 
 Check out more information from my [CV](https:./files/CV_YunzhenFeng.pdf).
 
