@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Math and Data group at the Center for Data Science, New York University, under the supervision of Prof. [Julia Kempe](https://cims.nyu.edu/~kempe/). My primary focus is on the development of efficient data curation pipelines. I hope to provide systematic and robust methods that exceed conventioanl heuristic methods by leveraging my background in applied math, statistics, and computer science. My current projects involve designing better data selection and data distillation methods. At NYU, I also work closely with Dr. [Ramakrishna Vedantam](https://vrama91.github.io/) and Dr. [Tim G. J. Rudner](https://timrudner.com/).
+I am a PhD candidate in the Math and Data group at the Center for Data Science, New York University, under the supervision of Prof. [Julia Kempe](https://cims.nyu.edu/~kempe/). Alongside Prof. Kempe, I am fortunate to have the support of my committee advisors, Prof. [Qi Lei](https://cecilialeiqi.github.io/) and Prof. [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). 
+
+My current research interests focus on several key areas: 1) the impact of AI-synthesized data on contemporary learning paradigms, 2) systematic methods for data selection, and 3) hallucinations and reasonings within large language models (LLMs). By drawing upon my theoretical knowledge and practical experience, I aim to contribute insightful understandings and develop robust methodologies in these areas.
 
 I did my undergraduate in Applied Mathematics (Honor Track) at the School of Mathematical Sciences, Peking University. Back then, I was advised by Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin/) on adversarial robustness. In Summer 2020, I worked virtually with Prof. [Yue M. Lu](https://lu.seas.harvard.edu/) at Harvard on high dimensional statistics and machine learning. I also worked closely with Dr. [Di He](https://www.microsoft.com/en-us/research/people/dihe/) from Microsoft Research Asia on representation. In 2022 Summer, I interned at Uber as an Applied Scientist Intern on causal machine learning.
 
